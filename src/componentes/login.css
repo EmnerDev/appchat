@@ -2,8 +2,8 @@ body{
     background: slategray;
 }
 .general{
-    width: 50%;
-    margin: 0 310px;
+    width: 40%;
+    margin: 0 370px;
     background: cornflowerblue;
     border-radius: 10px;
 }
@@ -11,6 +11,7 @@ body{
 .user-logo{
     width: 170px;
     height: 180px;
+    margin: 15px 0;
 }
 .div-usuario{
     padding: 4px;

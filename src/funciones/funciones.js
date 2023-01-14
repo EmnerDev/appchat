@@ -1,9 +1,10 @@
 import axios from "axios";
 
 const iniciaSesion = async () => {
-    const peticion = await axios.get('https://rickandmortyapi.com/api/character')
-    console.log(peticion)
+    const peticion = await axios.get('https://reqres.in/api/login')
+    console.log(peticion.data.data)
 
+    
 }
 
 export{
