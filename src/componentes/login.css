@@ -1,0 +1,129 @@
+body{
+    background: slategray;
+}
+.general{
+    width: 50%;
+    margin: 0 310px;
+    background: cornflowerblue;
+    border-radius: 10px;
+}
+
+.user-logo{
+    width: 170px;
+    height: 180px;
+}
+.div-usuario{
+    padding: 4px;
+    font-weight: bold;
+}
+.usuario{
+    width: 200px;
+    margin-left: 8px;    
+    padding: 9px;
+    border-radius: 5px;
+}
+.div-correo{
+    font-weight: bold;
+}
+.correo{
+    width: 200px;
+    margin-left: 15px;
+    padding: 9px;
+    border-radius: 5px;
+}
+.div-contraseña{
+    font-weight: bold;
+    padding: 4px;
+}
+.contraseña{
+    width: 200px;
+    margin-left: 70px;
+    padding: 9px;
+    border-radius: 5px;
+}
+
+.nueva-cuenta{
+    margin: 5px;
+    margin-left: 185px;
+}
+.nueva-cuenta a{
+    text-decoration: none;
+    font-weight: bold;    
+    color: white;
+}
+.nueva-cuenta a:hover{
+    color: blue;
+}
+
+.botones{
+    padding: 2em;
+    gap: 24px;
+}
+
+.btn-login{
+    width: 30%;
+    padding: 10px 0;
+    font-size: 14px;
+    gap: 10px;
+    margin: 10px;
+    font-weight: bold;
+    color: white;
+    background: green;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn-login:hover{
+    background: darkgreen;
+}
+
+.btn-reset{
+    width: 30%;
+    padding: 10px 0;
+    font-size: 14px;
+    gap: 10px;
+    margin: 10px;
+    font-weight: bold;
+    color: white;
+    background: red;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn-reset:hover{
+    background: darkred;
+}
+
+/*crear cuenta*/
+.subir-foto label{
+    font-weight: bold;
+    margin-left: -26px;
+    padding: 14px;
+}
+
+.foto{
+    width: 200px;
+    margin-left: 98px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.botones a{
+    width: 30%;
+    padding: 9px 65px;
+    font-size: 14px;
+    gap: 10px;
+    margin: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    background: red;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.botones a:hover{
+    background: darkred;
+}
+
+
